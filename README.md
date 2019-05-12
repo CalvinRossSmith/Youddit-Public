@@ -7,7 +7,7 @@
 
 ## Contribuitors
 
-[Calvin Smith](https://github.com/CalvinRossSmith "Calvin Smith")
+[Calvin Smith](https://github.com/CalvinRossSmith "Calvin Smith") &
 [Owen Anderson](https://github.com/shimmy568 "Owen Anderson")
 
 
