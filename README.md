@@ -8,7 +8,7 @@
 
 ## Summary
 
-Youddit is made up of customizable python scripts. These scripts include a reddit web scraper that looks for urls of a selected subreddit. A downloading script is then called that will search each url to look and see if a video is attached to the url, if so the video will be downloaded. Once a whole grouping of videos are downloaded they are randomly compiled into 5 minute compilations. Once the video is created it is uploaded to youtube.
+Youddit is made up of customizable python scripts. These scripts include a reddit web scraper that looks for urls of a selected subreddit. A downloading script is then called that will search each url to look and see if a video is attached to the url, if so the video will be downloaded. Once a whole grouping of videos are downloaded they are randomly compiled into 5 minute compilations. Once the video is created it is uploaded to YouTube.
 
 ## Quick Start
 
