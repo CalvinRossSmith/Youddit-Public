@@ -2,6 +2,9 @@
 
 ![Youddit](youdditProfilePic.png)
 
+## Demo
+
+[Demo YouTube Channel](https://www.youtube.com/channel/UCTGH8r_5szNZ6riHOWlU0wg "Demo")
 
 ## Summary
 
