@@ -18,7 +18,7 @@ Youddit is made up of customizable python scripts. These scripts include a reddi
 7. Add the absolute path for your final save location “finalSave”
 8. Create a directory at root called “copyrightFreeMusic”
 9. Move your copyright free music into the directory from above
-10. Type python ./main.py into termal to start
+10. Type python3 ./main.py into termal to start
 
 ## ToDo
 - [x] Video Downloader
